@@ -1,0 +1,19 @@
+{
+  "name": "@pixl/debug-tools",
+  "version": "0.0.1",
+  "description": "Tools for debugging (logging errors with trace, debug output, execution time measuring)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rtwe"
+  },
+  "keywords": [
+    "debug",
+    "logging"
+  ],
+  "author": "PixL",
+  "license": "ISC"
+}
