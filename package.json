@@ -1,5 +1,5 @@
 {
-  "name": "@pixl/debug-tools",
+  "name": "pixl-debug-tools",
   "version": "0.0.1",
   "description": "Tools for debugging (logging errors with trace, debug output, execution time measuring)",
   "main": "index.js",
